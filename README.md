@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RafaelUeda
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Database
 - 💞️ I’m looking to collaborate on making the world a better place
 - 📫 How to reach me @reiboko_real
 
